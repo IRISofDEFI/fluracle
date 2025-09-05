@@ -1,4 +1,3 @@
-# fluracle
 # Fluracle
 
 **Smart Price Oracle for Fluent Network**
